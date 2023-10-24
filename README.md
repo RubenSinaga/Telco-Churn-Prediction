@@ -1,5 +1,6 @@
 # Telco-Churn-Prediction
 **Background Story:** 
+
 One of the Chief Marketing Officers (CMO) of a company in the telecommunications industry wants to minimize the problems that often occur in his business, namely customer churn. He wants to know the habit patterns of customers who will then create machine learning models to be able to guess whether they churn or not in the next period.
 
 Based on the problem, as a Data Analytics & Science role, make the right analysis and model to solve the project!
